@@ -4,9 +4,9 @@
  * \* Date: 04.07.2022
  * \* ----- group JAVA-27 -----
  * \*
- * \* Description: Домашние задания по курсу «Web, Spring & Spring MVC»
+ * \* Description: Домашнее задание к занятию «1.2. Формы и форматы передачи данных»
  * \*
- * \* Задача: HTTP и современный Web
+ * \* Задача: query
  * \
  */
 public class Main {
